@@ -1,5 +1,5 @@
 # Landing-Page
-[Click here to view the project](https://medhabar.github.io/Landing-Page/)
+[Click here to view the project](https://medhabar.github.io/landing-page/)
 
 ## Overview
 This project is a modern and responsive landing page built using Tailwind CSS. The design includes multiple interactive cards showcasing different job opportunities. The layout is clean, minimalistic, and fully responsive.
